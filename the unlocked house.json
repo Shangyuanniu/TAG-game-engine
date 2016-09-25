@@ -1,0 +1,69 @@
+{
+	"rooms": [{
+		"id": "white dungeon",
+		"description": "This is the white dungeon. You don't know why you end up being here since you've lost all your memory.\n 
+		There is an ladder going upwards and nothing else.\n You should drop the black blood here if you have it with you.",
+		"points": 1,
+		"exits": [{
+			"direction": "up",
+			"room_id": "heaven"
+		}],
+		"treasure": ["black blood"]
+	}, {
+		"id": "altar",
+		"description": "This is altar. You feel like you are going crazy for no reason. Who am I? Why am I here?\nYou should drop your knife here.",
+		"points": 10,
+		"exits": [{
+			"direction": "crazy",
+			"room_id": "?????"
+		}],
+		"treasure": ["knife"]
+	},
+	{
+		"id": "?????",
+		"description": "You have fallen into the limbo. There's no exit. Prepare to die here. Game over. Only the null can get you points.",
+		"points": 1,
+		"exits": [],
+		"treasure": ["null"]
+	},
+	{
+		"id": "heaven",
+		"description": "You have climbing up to heaven, there's an altar in the south.",
+		"points": 1,
+		"exits": [{
+			"direction": "south",
+			"room_id": "altar"
+		}],
+		"treasure": []
+	},
+	{
+		"id": "black dungeon",
+		"description": "An inaccessible black dungeon.",
+		"points": 1,
+		"exits": [],
+		"treasure": []
+	}
+],
+	"start_room": "white dungeon",
+	"items": [{
+		"id": "knife",
+		"description": "an ordinary knife",
+		"points": 100
+	}, {
+		"id": "null",
+		"description": "The legendary null element.",
+		"points": 1000
+	}, {
+		"id": "black blood",
+		"description": "A droplet of black blood. Probably belongs to some devil.",
+		"points": 10000
+	}],
+	"start_inv": ["knife"],
+	"start_locations": [{
+		"room": "heaven",
+		"item": "black blood"
+	}, {
+		"room": "altar",
+		"item": "null"
+	}]
+}

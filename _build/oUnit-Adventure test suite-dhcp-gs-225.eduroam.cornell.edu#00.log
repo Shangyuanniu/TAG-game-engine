@@ -1,0 +1,419 @@
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Runner: processes
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Chooser: simple
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration suite_name = "Adventure test suite"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration cache_filename = "/Users/shangyuanniu/Documents/CS3110/a2/_build/oUnit-$(suite_name).cache"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration display = "true"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration results_style_1_X = "false"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration verbose = "false"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration health_check_interval = "1."
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration testdata_dir = "none"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration chooser = "simple"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration output_html_dir = "none"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration processes_kill_period = "5."
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration runner = "processes"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration shards = "2"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration processes_grace_period = "5."
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration log_encoding = "utf-8"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration output_junit_file = "none"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Configuration output_file = "/Users/shangyuanniu/Documents/CS3110/a2/_build/oUnit-$(suite_name)-$(shard_id).log"
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Using 2 workers maximum.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Starting worker number dhcp-gs-225.eduroam.cornell.edu#01.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Worker dhcp-gs-225.eduroam.cornell.edu#01 started.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Starting worker number dhcp-gs-225.eduroam.cornell.edu#02.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Worker dhcp-gs-225.eduroam.cornell.edu#02 started.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:1:test for sum 2, Adventure test suite:0:test for sum 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:0:test for sum 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:1:test for sum 2, Adventure test suite:0:test for sum 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:1:test for sum 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:1:test for sum 2, Adventure test suite:0:test for sum 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:0:test for sum 1 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:1:test for sum 2, Adventure test suite:0:test for sum 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:0:test for sum 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:1:test for sum 2, Adventure test suite:0:test for sum 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:2:test for getitem 1, Adventure test suite:1:test for sum 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:2:test for getitem 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:2:test for getitem 1, Adventure test suite:1:test for sum 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:1:test for sum 2 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:2:test for getitem 1, Adventure test suite:1:test for sum 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:1:test for sum 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:2:test for getitem 1, Adventure test suite:1:test for sum 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:3:test for getitem 2, Adventure test suite:2:test for getitem 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:2:test for getitem 1 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:3:test for getitem 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:3:test for getitem 2, Adventure test suite:2:test for getitem 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:2:test for getitem 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:3:test for getitem 2, Adventure test suite:2:test for getitem 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:4:test for getroom 1, Adventure test suite:3:test for getitem 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:3:test for getitem 2 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:4:test for getroom 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:4:test for getroom 1, Adventure test suite:3:test for getitem 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:3:test for getitem 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:4:test for getroom 1 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:4:test for getroom 1, Adventure test suite:3:test for getitem 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:4:test for getroom 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:5:test for getroom 2, Adventure test suite:4:test for getroom 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:6:test for extract 1, Adventure test suite:5:test for getroom 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:6:test for extract 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:6:test for extract 1, Adventure test suite:5:test for getroom 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:5:test for getroom 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:6:test for extract 1, Adventure test suite:5:test for getroom 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:5:test for getroom 2 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:6:test for extract 1 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:6:test for extract 1, Adventure test suite:5:test for getroom 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:5:test for getroom 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:6:test for extract 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:6:test for extract 1, Adventure test suite:5:test for getroom 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:8:test for assoc_Get 1, Adventure test suite:7:test for extract 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:7:test for extract 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:8:test for assoc_Get 1, Adventure test suite:7:test for extract 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:7:test for extract 2 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:8:test for assoc_Get 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:8:test for assoc_Get 1, Adventure test suite:7:test for extract 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:7:test for extract 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:8:test for assoc_Get 1 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:8:test for assoc_Get 1, Adventure test suite:7:test for extract 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:8:test for assoc_Get 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:9:test for assoc_get 2, Adventure test suite:8:test for assoc_Get 1.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:10:max, Adventure test suite:9:test for assoc_get 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:9:test for assoc_get 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:10:max, Adventure test suite:9:test for assoc_get 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:9:test for assoc_get 2 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:10:max.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:10:max, Adventure test suite:9:test for assoc_get 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:9:test for assoc_get 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:10:max is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:10:max, Adventure test suite:9:test for assoc_get 2.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:10:max.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:11:initial turns, Adventure test suite:10:max.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:12:initial score, Adventure test suite:11:initial turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:12:initial score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:12:initial score, Adventure test suite:11:initial turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:11:initial turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:12:initial score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:12:initial score, Adventure test suite:11:initial turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:11:initial turns is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:12:initial score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:12:initial score, Adventure test suite:11:initial turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:11:initial turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:13:current room, Adventure test suite:11:initial turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:14:inventory, Adventure test suite:13:current room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:13:current room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:14:inventory, Adventure test suite:13:current room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:14:inventory.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:14:inventory, Adventure test suite:13:current room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:13:current room is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:14:inventory, Adventure test suite:13:current room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:13:current room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:14:inventory is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:14:inventory, Adventure test suite:13:current room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:14:inventory.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:15:location, Adventure test suite:14:inventory.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:16:visited, Adventure test suite:15:location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:15:location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:16:visited.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:16:visited, Adventure test suite:15:location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:15:location is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:16:visited is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:16:visited, Adventure test suite:15:location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:15:location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:16:visited.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:16:visited, Adventure test suite:15:location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:18:item list, Adventure test suite:17:room list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:17:room list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:18:item list, Adventure test suite:17:room list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:17:room list is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:18:item list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:18:item list, Adventure test suite:17:room list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:17:room list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:18:item list is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:18:item list, Adventure test suite:17:room list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:18:item list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:19:treasure location assoc list, Adventure test suite:18:item list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:20:do' quit, Adventure test suite:19:treasure location assoc list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:20:do' quit.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:20:do' quit, Adventure test suite:19:treasure location assoc list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:19:treasure location assoc list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:20:do' quit is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:20:do' quit, Adventure test suite:19:treasure location assoc list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:19:treasure location assoc list is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:20:do' quit.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:20:do' quit, Adventure test suite:19:treasure location assoc list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:19:treasure location assoc list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:21:do' inv, Adventure test suite:19:treasure location assoc list.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:22:do' inventory, Adventure test suite:21:do' inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:21:do' inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:22:do' inventory, Adventure test suite:21:do' inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:21:do' inv is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:22:do' inventory.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:22:do' inventory, Adventure test suite:21:do' inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:21:do' inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:22:do' inventory is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:22:do' inventory, Adventure test suite:21:do' inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:22:do' inventory.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:23:do' look, Adventure test suite:22:do' inventory.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:24:do' score, Adventure test suite:23:do' look.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:23:do' look.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:24:do' score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:24:do' score, Adventure test suite:23:do' look.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:23:do' look is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:24:do' score, Adventure test suite:23:do' look.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:24:do' score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:24:do' score, Adventure test suite:23:do' look.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:24:do' score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:24:do' score, Adventure test suite:23:do' look.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:25:do' turns, Adventure test suite:23:do' look.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:23:do' look.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:25:do' turns, Adventure test suite:23:do' look.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:25:do' turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:25:do' turns, Adventure test suite:23:do' look.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:26:do' take non exist item, Adventure test suite:25:do' turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:26:do' take non exist item.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:26:do' take non exist item, Adventure test suite:25:do' turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:26:do' take non exist item is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:26:do' take non exist item, Adventure test suite:25:do' turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:26:do' take non exist item.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:26:do' take non exist item, Adventure test suite:25:do' turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:27:do' take item already in inv, Adventure test suite:25:do' turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:27:do' take item already in inv, Adventure test suite:25:do' turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:25:do' turns is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:27:do' take item already in inv, Adventure test suite:25:do' turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:25:do' turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:27:do' take item already in inv, Adventure test suite:25:do' turns.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:28:do' take item from another room, Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:28:do' take item from another room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:28:do' take item from another room, Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:28:do' take item from another room is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:28:do' take item from another room, Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:28:do' take item from another room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:28:do' take item from another room, Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:29:do' take correct item inv, Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:29:do' take correct item inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:29:do' take correct item inv, Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:27:do' take item already in inv is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:29:do' take correct item inv is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:29:do' take correct item inv, Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:29:do' take correct item inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:29:do' take correct item inv, Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:30:do' take correct item turn, Adventure test suite:27:do' take item already in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:31:do' take correct item location, Adventure test suite:30:do' take correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:30:do' take correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:31:do' take correct item location, Adventure test suite:30:do' take correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:31:do' take correct item location, Adventure test suite:30:do' take correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:30:do' take correct item turn is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:31:do' take correct item location, Adventure test suite:30:do' take correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:30:do' take correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:31:do' take correct item location, Adventure test suite:30:do' take correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:32:do' take correct item away from treasure room score, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:32:do' take correct item away from treasure room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:32:do' take correct item away from treasure room score, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:32:do' take correct item away from treasure room score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:32:do' take correct item away from treasure room score, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:32:do' take correct item away from treasure room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:32:do' take correct item away from treasure room score, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:33:do' take correct item away from non treasure room score unchanged, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:33:do' take correct item away from non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:33:do' take correct item away from non treasure room score unchanged, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:31:do' take correct item location is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:33:do' take correct item away from non treasure room score unchanged, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:33:do' take correct item away from non treasure room score unchanged is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:33:do' take correct item away from non treasure room score unchanged, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:33:do' take correct item away from non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:33:do' take correct item away from non treasure room score unchanged, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:34:do' drop non exist item, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:34:do' drop non exist item.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:34:do' drop non exist item, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:34:do' drop non exist item, Adventure test suite:31:do' take correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:35:do' drop item not in inv, Adventure test suite:34:do' drop non exist item.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:35:do' drop item not in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:35:do' drop item not in inv, Adventure test suite:34:do' drop non exist item.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:34:do' drop non exist item is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:35:do' drop item not in inv, Adventure test suite:34:do' drop non exist item.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:34:do' drop non exist item.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:35:do' drop item not in inv, Adventure test suite:34:do' drop non exist item.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:36:do' drop correct item inv, Adventure test suite:35:do' drop item not in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:36:do' drop correct item inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:36:do' drop correct item inv, Adventure test suite:35:do' drop item not in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:35:do' drop item not in inv is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:36:do' drop correct item inv, Adventure test suite:35:do' drop item not in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:35:do' drop item not in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:36:do' drop correct item inv is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:36:do' drop correct item inv, Adventure test suite:35:do' drop item not in inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:36:do' drop correct item inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:37:do' drop correct item turn, Adventure test suite:36:do' drop correct item inv.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:37:do' drop correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:38:do' drop correct item location, Adventure test suite:37:do' drop correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:38:do' drop correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:38:do' drop correct item location, Adventure test suite:37:do' drop correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:37:do' drop correct item turn is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:38:do' drop correct item location, Adventure test suite:37:do' drop correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:37:do' drop correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:38:do' drop correct item location, Adventure test suite:37:do' drop correct item turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:38:do' drop correct item location is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:39:do' drop correct item into treasure room score, Adventure test suite:38:do' drop correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:38:do' drop correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:39:do' drop correct item into treasure room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:39:do' drop correct item into treasure room score, Adventure test suite:38:do' drop correct item location.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:40:do' drop correct item into non treasure room score unchanged, Adventure test suite:39:do' drop correct item into treasure room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:40:do' drop correct item into non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:40:do' drop correct item into non treasure room score unchanged, Adventure test suite:39:do' drop correct item into treasure room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:39:do' drop correct item into treasure room score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:40:do' drop correct item into non treasure room score unchanged, Adventure test suite:39:do' drop correct item into treasure room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:39:do' drop correct item into treasure room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:40:do' drop correct item into non treasure room score unchanged, Adventure test suite:39:do' drop correct item into treasure room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:41:do' go to non exist direction, Adventure test suite:40:do' drop correct item into non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:41:do' go to non exist direction.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:41:do' go to non exist direction, Adventure test suite:40:do' drop correct item into non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:40:do' drop correct item into non treasure room score unchanged is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:41:do' go to non exist direction is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:41:do' go to non exist direction, Adventure test suite:40:do' drop correct item into non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:41:do' go to non exist direction.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:41:do' go to non exist direction, Adventure test suite:40:do' drop correct item into non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:42:do' go to correct direction current_room, Adventure test suite:40:do' drop correct item into non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:42:do' go to correct direction current_room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:42:do' go to correct direction current_room, Adventure test suite:40:do' drop correct item into non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:40:do' drop correct item into non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:42:do' go to correct direction current_room, Adventure test suite:40:do' drop correct item into non treasure room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:43:do' go to correct direction turn, Adventure test suite:42:do' go to correct direction current_room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:42:do' go to correct direction current_room is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:43:do' go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:43:do' go to correct direction turn, Adventure test suite:42:do' go to correct direction current_room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:42:do' go to correct direction current_room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:43:do' go to correct direction turn, Adventure test suite:42:do' go to correct direction current_room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:44:do' go to correct room 1st time visited, Adventure test suite:43:do' go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:44:do' go to correct room 1st time visited.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:44:do' go to correct room 1st time visited, Adventure test suite:43:do' go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:43:do' go to correct direction turn is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:44:do' go to correct room 1st time visited, Adventure test suite:43:do' go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:44:do' go to correct room 1st time visited is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:44:do' go to correct room 1st time visited, Adventure test suite:43:do' go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:44:do' go to correct room 1st time visited.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:44:do' go to correct room 1st time visited, Adventure test suite:43:do' go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:45:do' go to new room score, Adventure test suite:43:do' go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:45:do' go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:45:do' go to new room score, Adventure test suite:43:do' go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:43:do' go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:45:do' go to new room score, Adventure test suite:43:do' go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:46:do' revisit room score unchanged, Adventure test suite:45:do' go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:46:do' revisit room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:46:do' revisit room score unchanged, Adventure test suite:45:do' go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:45:do' go to new room score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:46:do' revisit room score unchanged is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:46:do' revisit room score unchanged, Adventure test suite:45:do' go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:45:do' go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:46:do' revisit room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:46:do' revisit room score unchanged, Adventure test suite:45:do' go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:48:do' short hand go to correct direction current_room, Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:48:do' short hand go to correct direction current_room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:48:do' short hand go to correct direction current_room, Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:48:do' short hand go to correct direction current_room, Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:48:do' short hand go to correct direction current_room is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:48:do' short hand go to correct direction current_room, Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:48:do' short hand go to correct direction current_room.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:48:do' short hand go to correct direction current_room, Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:49:do' short hand go to correct direction turn, Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:49:do' short hand go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:49:do' short hand go to correct direction turn, Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:49:do' short hand go to correct direction turn, Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:50:do' short hand go to correct room 1st time visited, Adventure test suite:49:do' short hand go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:50:do' short hand go to correct room 1st time visited.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:50:do' short hand go to correct room 1st time visited, Adventure test suite:49:do' short hand go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:49:do' short hand go to correct direction turn is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:50:do' short hand go to correct room 1st time visited, Adventure test suite:49:do' short hand go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:49:do' short hand go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:50:do' short hand go to correct room 1st time visited, Adventure test suite:49:do' short hand go to correct direction turn.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:50:do' short hand go to correct room 1st time visited is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:51:do' short hand go to new room score, Adventure test suite:50:do' short hand go to correct room 1st time visited.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:50:do' short hand go to correct room 1st time visited.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Start test Adventure test suite:51:do' short hand go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:51:do' short hand go to new room score, Adventure test suite:50:do' short hand go to correct room 1st time visited.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Still 2 tests running : Adventure test suite:52:do' short hand revisit room score unchanged, Adventure test suite:51:do' short hand go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:52:do' short hand revisit room score unchanged, Adventure test suite:51:do' short hand go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Start test Adventure test suite:52:do' short hand revisit room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Still 2 tests running : Adventure test suite:52:do' short hand revisit room score unchanged, Adventure test suite:51:do' short hand go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:52:do' short hand revisit room score unchanged, Adventure test suite:51:do' short hand go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: Test Adventure test suite:51:do' short hand go to new room score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Still 2 tests running : Adventure test suite:52:do' short hand revisit room score unchanged, Adventure test suite:51:do' short hand go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:52:do' short hand revisit room score unchanged, Adventure test suite:51:do' short hand go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#02 I: End test Adventure test suite:51:do' short hand go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: Test Adventure test suite:52:do' short hand revisit room score unchanged is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Still 2 tests running : Adventure test suite:52:do' short hand revisit room score unchanged, Adventure test suite:51:do' short hand go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:52:do' short hand revisit room score unchanged, Adventure test suite:51:do' short hand go to new room score.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#01 I: End test Adventure test suite:52:do' short hand revisit room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Still 1 tests running : Adventure test suite:52:do' short hand revisit room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 1 tests running: Adventure test suite:52:do' short hand revisit room score unchanged.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: 0 tests running: .
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Worker dhcp-gs-225.eduroam.cornell.edu#02 has ended.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Worker dhcp-gs-225.eduroam.cornell.edu#01 has ended.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Used 2 worker during test execution.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Run 25 tests with shard dhcp-gs-225.eduroam.cornell.edu#02.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Run 28 tests with shard dhcp-gs-225.eduroam.cornell.edu#01.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: ==============
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Summary:
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:52:do' short hand revisit room score unchanged is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:51:do' short hand go to new room score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:50:do' short hand go to correct room 1st time visited is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:49:do' short hand go to correct direction turn is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:47:do' short hand go to non exist direction, treat as invalid command, return unchanged state is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:48:do' short hand go to correct direction current_room is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:46:do' revisit room score unchanged is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:45:do' go to new room score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:43:do' go to correct direction turn is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:44:do' go to correct room 1st time visited is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:42:do' go to correct direction current_room is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:40:do' drop correct item into non treasure room score unchanged is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:41:do' go to non exist direction is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:39:do' drop correct item into treasure room score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:38:do' drop correct item location is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:37:do' drop correct item turn is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:36:do' drop correct item inv is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:35:do' drop item not in inv is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:34:do' drop non exist item is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:31:do' take correct item location is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:33:do' take correct item away from non treasure room score unchanged is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:32:do' take correct item away from treasure room score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:30:do' take correct item turn is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:27:do' take item already in inv is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:29:do' take correct item inv is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:28:do' take item from another room is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:25:do' turns is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:26:do' take non exist item is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:23:do' look is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:24:do' score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:22:do' inventory is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:21:do' inv is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:19:treasure location assoc list is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:20:do' quit is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:18:item list is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:17:room list is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:16:visited is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:15:location is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:14:inventory is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:13:current room is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:11:initial turns is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:12:initial score is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:10:max is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:9:test for assoc_get 2 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:8:test for assoc_Get 1 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:7:test for extract 2 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:6:test for extract 1 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:5:test for getroom 2 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:4:test for getroom 1 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:3:test for getitem 2 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:2:test for getitem 1 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:1:test for sum 2 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Test Adventure test suite:0:test for sum 1 is successful.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Ran: 53 tests in: 0.18 seconds.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Cases: 53.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Tried: 53.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Errors: 0.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Failures: 0.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Skip: 0.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Todo: 0.
+2016-09-23T03:07:35+00:00 dhcp-gs-225.eduroam.cornell.edu#00 I: Timeout: 0.
